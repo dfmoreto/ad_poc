@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: Poc de AD no tema do YAMT
 
 #Nav 
 nav:
@@ -15,10 +15,6 @@ nav:
 
 #Featured images in homepage
 featured-img:
-  active: true
-
-#Show categories at the end of posts
-categories:
   active: true
 
 #Show date and read time under the post title
